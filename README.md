@@ -1,5 +1,5 @@
 - 👋 Ciao, I’m @samaritan81
-- 👀 Sono interessato a studiare soluzioni architetturali dei Big dell'informativa
+- 👀 Sono interessato a studiare soluzioni architetturali dei Big dell'informatica
 
 
 <!---
